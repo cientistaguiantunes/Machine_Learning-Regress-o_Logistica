@@ -1,1 +1,1 @@
-# Machine_Learning-Regress-o_Logistica
+# Machine_Learning-Regressão_Logística
